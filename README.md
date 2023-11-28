@@ -11,7 +11,7 @@ Welcome to the repository for the Diploma in Engineering Information Technology 
 
 ## Syllabus
 
-The syllabus for the Diploma in Engineering Information Technology program is available in the [Syllabus](./Syllabus) directory. It provides an overview of the courses, topics covered, and other essential information.
+The syllabus for the Diploma in Engineering Information Technology program is available in the [Syllabus](https://github.com/brijesh-py/fgp/blob/main/syllabus.md) directory. It provides an overview of the courses, topics covered, and other essential information.
 
 ## Assignments
 
