@@ -74,11 +74,11 @@ The specific components and their arrangement can vary based on the type of comp
 ## Input & Output Devices
 1. **Input Device:** Input device is a hardware device that sends data and instructions to the computer. These devices are discussed below.
 #### List of a few Input devices
-1. Mouse
-2. Keyboard
-3. Joystick
-4. Light Pen
-5. Touch Screen
+- Mouse
+- Keyboard
+- Joystick
+- Light Pen
+- Touch Screen
 6. Graphics Tablet
 7. Microphone
 8. Scanner
