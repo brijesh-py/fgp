@@ -74,22 +74,22 @@ The specific components and their arrangement can vary based on the type of comp
 ## Input & Output Devices
 1. **Input Device:** Input device is a hardware device that sends data and instructions to the computer. These devices are discussed below.
 #### List of a few Input devices
-   - Mouse
-   - Keyboard
-   - Joystick
-   - Light Pen
-   - Touch Screen
-   - Graphics Tablet
-   - Microphone
-   - Scanner
-   - Optical Mark Reader (OMR)
-   - Barcode Reader
+- Mouse
+- Keyboard
+- Joystick
+- Light Pen
+- Touch Screen
+- Graphics Tablet
+- Microphone
+- Scanner
+- Optical Mark Reader (OMR)
+- Barcode Reader
 
 2. **Output Device:** Output device is any peripheral device that receives output from the computer and displays it. Some examples of different types of output devices commonly found on a computer are as follows.
-   #### List of a few Output devices
-   - Monitor
-   - Printers
-   - Projector
-   - Speech Synthesizer
-   - Speakers
+#### List of a few Output devices
+- Monitor
+- Printers
+- Projector
+- Speech Synthesizer
+- Speakers
    
