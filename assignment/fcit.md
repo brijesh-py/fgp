@@ -24,7 +24,7 @@ Computers come in various shapes, sizes, and functions. Here are some of the com
 
 These categories often overlap, and advancements in technology continually lead to new types of computers or hybrids designed to meet specific needs.
 
-## difference between ram and rom 
+## Difference between ram and rom 
 
 **RAM (Random Access Memory):**
 1. Volatile memory used for temporary storage.
@@ -70,3 +70,25 @@ A typical computer system diagram might include the following components:
 10. **System Bus:** Pathway for data to travel between components.
 
 The specific components and their arrangement can vary based on the type of computer (e.g., desktop, laptop, server) and its intended use. If you have a specific type of diagram or concept in mind, please provide more details for a more accurate explanation.
+
+## Input & Output Devices
+1. **Input Device:** Input device is a hardware device that sends data and instructions to the computer. These devices are discussed below.
+#### List of a few Input devices
+1. Mouse
+2. Keyboard
+3. Joystick
+4. Light Pen
+5. Touch Screen
+6. Graphics Tablet
+7. Microphone
+8. Scanner
+9. Optical Mark Reader (OMR)
+10. Barcode Reader
+
+2. **Output Device:** Output device is any peripheral device that receives output from the computer and displays it. Some examples of different types of output devices commonly found on a computer are as follows.
+1. Monitor
+2. Printers
+3. Projector
+4. Speech Synthesizer
+5. Speakers
+   
