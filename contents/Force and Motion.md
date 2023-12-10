@@ -295,7 +295,7 @@ where:
 **Example:**
 Let's say you have a record player, and you observe that it completes one full rotation (360 degrees or 2π radians) in 2 seconds. The angular displacement (Δθ) is 360 degrees, and the time taken (Δt) is 2 seconds.
 
-ω = {360<sup>∘</sup>/2 seconds = 180<sup>∘</sup>second
+ω = 360<sup>∘</sup>/2 seconds = 180<sup>∘</sup>second
 
 So, the angular velocity of the record player is 180 degrees per second.
 
@@ -304,3 +304,80 @@ Angular velocity is measured in degrees per second (<sup>∘</sup>/sec) or radia
 
 **Importance:**
 Understanding angular velocity is crucial in various fields, such as physics and engineering, particularly when dealing with rotating machinery or celestial objects like planets and stars.
+
+
+Angular acceleration is a measure of how quickly the angular velocity of an object is changing. It tells us how fast an object is speeding up or slowing down in its rotation.
+
+**In simpler terms:**
+Angular acceleration is like measuring how much an object's spinning speed is changing over time.
+
+**Formula:**
+Angular acceleration is typically represented by the Greek letter α (alpha) and is given by the formula:
+
+α = Δω/Δt
+
+where:
+- α is the angular acceleration,
+- Δω is the change in angular velocity,
+- Δt is the change in time.
+
+**Example:**
+Imagine a bicycle wheel that starts from rest and accelerates to a certain angular velocity in 4 seconds. If the initial angular velocity is 0 and the final angular velocity is 120 degrees per second, you can calculate angular acceleration using the formula:
+
+α = Δω/Δt = (120<sup>∘</sup>/sec)/ 4sec = 30<sup>∘</sup>/sec<sup>2</sup>
+
+So, the angular acceleration of the bicycle wheel is 30<sup>∘</sup>/sec<sup>2</sup>.
+
+**Units:**
+Angular acceleration is measured in degrees per second squared (sup>∘</sup>/sec<sup>2</sup>) or radians per second squared (rad/sec<sup>2</sup>).
+
+**Importance:**
+Understanding angular acceleration is crucial in describing the motion of rotating objects, whether it's a spinning wheel, a gyroscope, or even the rotation of celestial bodies. It helps us analyze how quickly the rotation is changing and how forces or torques are influencing the rotation.
+
+
+### Frequency:
+
+**Definition:** Frequency is the number of cycles or oscillations of a repeating event per unit of time.
+
+**Formula:** The formula for frequency (<i>f</i>) is:
+
+f = 1/ T
+
+where:
+- f is the frequency,
+- T is the time period.
+
+### Time Period:
+
+**Definition:** Time period is the time it takes for one complete cycle or oscillation of a repeating event.
+
+**Formula:** The formula for time period (T) is the reciprocal of frequency:
+
+ T = 1/ f
+
+### Example:
+
+Imagine a pendulum swinging back and forth. Each swing from one extreme to the other completes one cycle.
+
+- **Frequency Example:**
+  - If the pendulum completes 5 cycles in 10 seconds, the frequency is:
+    f = 5/ 10 = 0.5Hz
+    The pendulum completes 0.5 cycles per second.
+
+- **Time Period Example:**
+  - If the pendulum takes 2 seconds to complete one full swing, the time period is:
+    T = 1/f = 1/0.5 = 2seconds
+    It takes 2 seconds for one complete cycle.
+
+### Importance:
+
+1. **Wave Analysis:**
+   - Frequency and time period are crucial in analyzing and describing waves, whether they are sound waves, light waves, or any other type of oscillation.
+
+2. **Electronics:**
+   - In electronics, frequency is used to describe the rate of oscillation of signals in circuits.
+
+3. **Physics and Engineering:**
+   - These concepts are fundamental in various scientific and engineering fields, helping to understand and quantify repetitive motions and events.
+
+In summary, frequency and time period are reciprocal measures that describe how often a repetitive event occurs and how much time it takes to complete one cycle. They are essential in understanding the behavior of oscillating systems and are widely used in various scientific and technological applications.
