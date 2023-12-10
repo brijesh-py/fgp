@@ -450,9 +450,9 @@ So, the linear acceleration of the car is 3m/s<sup>2</sup>.
 - Δω: Change in angular velocity
 - Δt: Change in time
 
-**Example:** Consider a wheel initially at rest that starts rotating and reaches an angular velocity of <i>5/rad/s</i> in 2s. The angular acceleration can be calculated as follows:
+**Example:** Consider a wheel initially at rest that starts rotating and reaches an angular velocity of <i>5rad/s</i> in 2s. The angular acceleration can be calculated as follows:
 
-α = Δω/ Δt = ((5rad/s−0rad/s)/ (2s-0s) = (5rad/s)/ (2s) = 2.5rad/s<sup>2</sup>
+α = Δω/ Δt = (5rad/s−0rad/s)/ (2s-0s) = (5rad/s)/ (2s) = 2.5rad/s<sup>2</sup>
 
 So, the angular acceleration of the wheel is 2.5rad/s<sup>2</sup>.
 
