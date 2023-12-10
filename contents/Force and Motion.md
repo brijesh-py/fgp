@@ -257,3 +257,50 @@ Let's discuss circular motion, both uniform and non-uniform, in an easy and unde
    - Varying speed, changing direction, centripetal and tangential acceleration.
 
 Understanding circular motion is crucial in various fields, from physics and engineering to everyday experiences like driving or amusement park rides.
+
+
+Angular displacement is a measure of how much an object has rotated or turned around a fixed point. Imagine yourself standing at the center of a merry-go-round. When you spin around, the angle through which you turn is your angular displacement.
+
+**In simpler terms:**
+Angular displacement is like keeping track of how much you've twisted or rotated from your starting position. If you turn in a complete circle, your angular displacement is 360 degrees (or (2π) radians), and if you turn halfway, it's 180 degrees (or (π) radians).
+
+**Formula:**
+Angular displacement is often represented by the symbol θ (theta) and can be measured in degrees or radians. The formula for angular displacement is:
+
+θ = s/r
+
+where:
+- θ is the angular displacement,
+- s is the arc length (how far you've traveled around the circle),
+- r is the radius of the circle.
+
+So, in simple terms, angular displacement tells us how much something has twisted or turned, and it's measured in degrees or radians.
+
+
+Angular velocity is a measure of how fast something is rotating. Imagine a spinning top or a turning wheel. The speed at which these objects rotate is their angular velocity.
+
+**In simpler terms:**
+Angular velocity is like measuring how quickly something is spinning or turning around a fixed point.
+
+**Formula:**
+Angular velocity is typically denoted by the Greek letter ω (omega) and is given by the formula:
+
+ω = Δθ/Δt
+
+where:
+- ω is the angular velocity,
+- Δθ is the change in angular displacement,
+- Δt is the change in time.
+
+**Example:**
+Let's say you have a record player, and you observe that it completes one full rotation (360 degrees or 2π radians) in 2 seconds. The angular displacement (Δθ) is 360 degrees, and the time taken (Δt) is 2 seconds.
+
+ω = {360<sup>∘</sup>/2 seconds = 180<sup>∘</sup>second
+
+So, the angular velocity of the record player is 180 degrees per second.
+
+**Units:**
+Angular velocity is measured in degrees per second (<sup>∘</sup>/sec) or radians per second (rad/sec).
+
+**Importance:**
+Understanding angular velocity is crucial in various fields, such as physics and engineering, particularly when dealing with rotating machinery or celestial objects like planets and stars.
