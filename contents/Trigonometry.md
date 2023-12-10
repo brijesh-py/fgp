@@ -121,24 +121,25 @@ Feel free to reach out if you have any specific questions or if there's a partic
 Trigonometry involves several functions that relate the angles of a right-angled triangle to the ratios of its sides. Here is a list of basic trigonometric functions:
 
 1. **Sine Function (sinθ):**
-   \[ \sin(\theta) = \frac{{\text{{Opposite side}}}}{{\text{{Hypotenuse}}}} \]
+    - sin(θ)= Opposite side/Hypotenuse
 
-2. **Cosine Function (cosθ):**
-   \[ \cos(\theta) = \frac{{\text{{Adjacent side}}}}{{\text{{Hypotenuse}}}} \]
+3. **Cosine Function (cosθ):**
+    - cos(θ)= Adjacent side/Hypotenuse
 
-3. **Tangent Function (tanθ):**
-   \[ \tan(\theta) = \frac{{\text{{Opposite side}}}}{{\text{{Adjacent side}}}} \]
+5. **Tangent Function (tanθ):**
+    - cos(θ)= Opposite side/Adjacent side
 
 These primary trigonometric functions are defined based on the ratios of sides in a right-angled triangle. However, there are three additional reciprocal functions that are derived from these:
 
 4. **Cosecant Function (cosecθ or cscθ):**
-   \[ \csc(\theta) = \frac{1}{{\sin(\theta)}} \]
+   - csc(θ) = 1/sin(θ)
+   
 
-5. **Secant Function (secθ):**
-   \[ \sec(\theta) = \frac{1}{{\cos(\theta)}} \]
+6. **Secant Function (secθ):**
+   - sec(θ) = 1/cos(θ)
 
-6. **Cotangent Function (cotθ):**
-   \[ \cot(\theta) = \frac{1}{{\tan(\theta)}} \]
+8. **Cotangent Function (cotθ):**
+   - cot(θ) = 1/tan(θ)
 
 These reciprocal functions are the inverses of sine, cosine, and tangent and are useful in various mathematical contexts.
 
@@ -164,47 +165,47 @@ Trigonometric identities are equations that involve trigonometric functions and 
 ### Pythagorean Identities:
 
 1. **Pythagorean Identity:**
-   \[ \sin^2(\theta) + \cos^2(\theta) = 1 \]
+    - sin^2(θ) + cos^2(θ) = 1
 
-2. **Reciprocal Identity:**
-   \[ \csc^2(\theta) = 1 + \cot^2(\theta) \]
-   \[ \sec^2(\theta) = 1 + \tan^2(\theta) \]
+3. **Reciprocal Identity:**
+   - csc^2(θ) = 1 + cos^2(θ)
+   - sec^2(θ) = 1 + tan^2(θ)
 
 ### Co-function Identities:
 
 3. **Cofunction Identity:**
-   \[ \sin\left(\frac{\pi}{2} - \theta\right) = \cos(\theta) \]
-   \[ \cos\left(\frac{\pi}{2} - \theta\right) = \sin(\theta) \]
-   \[ \tan\left(\frac{\pi}{2} - \theta\right) = \cot(\theta) \]
-   \[ \cot\left(\frac{\pi}{2} - \theta\right) = \tan(\theta) \]
-   \[ \sec\left(\frac{\pi}{2} - \theta\right) = \csc(\theta) \]
-   \[ \csc\left(\frac{\pi}{2} - \theta\right) = \sec(\theta) \]
+   - sin({π/2} - θ) = cos(θ)
+   - cos({π/2} - θ) = sin(θ)
+   - tan({π/2} - θ) = cot(θ)
+   - cot({π/2} - θ) = tan(θ)
+   - sec({π/2} - θ) = csc(θ)
+   - csc({π/2} - θ) = sec(θ)
 
 ### Double-Angle and Half-Angle Identities:
 
 4. **Double-Angle Identities:**
-   \[ \sin(2\theta) = 2\sin(\theta)\cos(\theta) \]
-   \[ \cos(2\theta) = \cos^2(\theta) - \sin^2(\theta) \]
-   \[ \tan(2\theta) = \frac{2\tan(\theta)}{1 - \tan^2(\theta)} \]
+  - sin(2θ) = 2sin(θ)cos(θ)
+  - cos(2θ) = cos^2(θ) - sin^2(θ)
+  - tan(2θ) = {2tan(θ)}/{1 - tan^2(θ)}
 
 5. **Half-Angle Identities:**
-   \[ \sin\left(\frac{\theta}{2}\right) = \pm\sqrt{\frac{1 - \cos(\theta)}{2}} \]
-   \[ \cos\left(\frac{\theta}{2}\right) = \pm\sqrt{\frac{1 + \cos(\theta)}{2}} \]
-   \[ \tan\left(\frac{\theta}{2}\right) = \pm\sqrt{\frac{1 - \cos(\theta)}{1 + \cos(\theta)}} \]
+   sin(θ/2) = +- √({1 - cos(θ)}/{2})
+   cos(θ/2) = +- √({1 + cos(θ)}/{2})
+   tan(θ/2) = +- √({1 - cos(θ)}/{1 + cos(θ)})
 
 ### Sum and Difference Identities:
 
 6. **Sum-to-Product Identities:**
-   \[ \sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta \]
-   \[ \cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta \]
+   sin(α + β) = sinα cosβ + cosα sinβ
+   cos(α + β) = cosα cosβ - sinα sinβ
 
 7. **Product-to-Sum Identities:**
-   \[ \sin\alpha\sin\beta = \frac{1}{2}[\cos(\alpha - \beta) - \cos(\alpha + \beta)] \]
-   \[ \cos\alpha\cos\beta = \frac{1}{2}[\cos(\alpha - \beta) + \cos(\alpha + \beta)] \]
+   sinα sinβ = {1}/{2}[cos(α - β) - cos(α + β)]
+   cosα cosβ = {1}/{2}[cos(α - β) + cos(α + β)]
 
 8. **Double-Angle Formulas (Sum of Angles):**
-   \[ \sin(\alpha + \beta) = 2\sin\alpha\cos\beta \]
-   \[ \cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta \]
+   sin(α + β) = 2sinα cosβ
+   cos(α + β) = cosa cosβ - sinα sinβ
 
 These are just a few fundamental trigonometric identities. There are more advanced and specialized identities used in various branches of mathematics and physics. Understanding and applying these identities are essential for solving trigonometric equations and simplifying expressions.
 
@@ -212,28 +213,28 @@ These are just a few fundamental trigonometric identities. There are more advanc
 Certainly! Inverse circular functions are used to find angles when the values of trigonometric functions are given. Here are the inverse trigonometric functions in a simple case:
 
 ### 1. **Arcsine (arcsin or sin^(-1)):**
-   \[ \text{If } \sin(\theta) = x, \text{ then } \theta = \arcsin(x) \]
-   - Example: If \(\sin(\theta) = 0.5\), then \(\theta = \arcsin(0.5)\).
+   If sin(θ) = x, then θ = arcsin(x)
+   - Example: If sin(θ) = 0.5, then θ = arcsin(0.5)
 
 ### 2. **Arccosine (arccos or cos^(-1)):**
-   \[ \text{If } \cos(\theta) = x, \text{ then } \theta = \arccos(x) \]
-   - Example: If \(\cos(\theta) = 0.5\), then \(\theta = \arccos(0.5)\).
+ If cos(θ) = x, then θ = arccos(x)
+   - Example: If cos(θ) = 0.5, then θ = arccos(0.5)
 
 ### 3. **Arctangent (arctan or tan^(-1)):**
-   \[ \text{If } \tan(\theta) = x, \text{ then } \theta = \arctan(x) \]
-   - Example: If \(\tan(\theta) = 1\), then \(\theta = \arctan(1)\).
+  If tan(θ) = x, then θ = arctan(x)
+   - Example:  If tan(θ) = 1, then θ = arctan(1)
 
 ### 4. **Arccosecant (arccsc or csc^(-1)):**
-   \[ \text{If } \csc(\theta) = x, \text{ then } \theta = \text{arccsc}(x) \]
-   - Example: If \(\csc(\theta) = 2\), then \(\theta = \text{arccsc}(2)\).
+   If csc(θ) = x, then θ = arccsc(x)
+   - Example: If csc(θ) = 2, then θ = arccsc(2)
 
 ### 5. **Arcsecant (arcsec or sec^(-1)):**
-   \[ \text{If } \sec(\theta) = x, \text{ then } \theta = \text{arcsec}(x) \]
-   - Example: If \(\sec(\theta) = 2\), then \(\theta = \text{arcsec}(2)\).
+   If sec(θ) = x, then θ = arcsec(x)
+   - Example: If sec(θ) = 2, then θ = arcsec(2)
 
 ### 6. **Arccotangent (arccot or cot^(-1)):**
-   \[ \text{If } \cot(\theta) = x, \text{ then } \theta = \text{arccot}(x) \]
-   - Example: If \(\cot(\theta) = 0.5\), then \(\theta = \text{arccot}(0.5)\).
+   If cot(θ) = x, then θ = arccot(x)
+   - Example: If cot(θ) = 0.5, then θ = arccot(0.5)
 
 These inverse functions "undo" the effects of the corresponding trigonometric functions. Remember that the output of these inverse functions is an angle, and the result is typically expressed in degrees or radians, depending on the context. The range of these inverse functions is often restricted to specific intervals to make them one-to-one functions. Always check the context or use additional information to determine the appropriate angle.
 
