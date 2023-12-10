@@ -238,3 +238,49 @@ Certainly! Inverse circular functions are used to find angles when the values of
 
 These inverse functions "undo" the effects of the corresponding trigonometric functions. Remember that the output of these inverse functions is an angle, and the result is typically expressed in degrees or radians, depending on the context. The range of these inverse functions is often restricted to specific intervals to make them one-to-one functions. Always check the context or use additional information to determine the appropriate angle.
 
+
+Here's a list of some common mathematical formulas that cover various topics:
+
+### Algebra Formulas:
+![Screenshot from 2023-12-10 11-34-27](https://github.com/brijesh-py/fgp/assets/134686367/7571289b-e796-4515-b850-2c91b0f9e7d2)
+
+![Screenshot from 2023-12-10 11-37-39](https://github.com/brijesh-py/fgp/assets/134686367/84079434-eb9a-4ed4-8efc-ff81c5ca2256)
+
+![Screenshot from 2023-12-10 11-38-43](https://github.com/brijesh-py/fgp/assets/134686367/6bf6be83-acf2-40ec-9265-e638efcdb85a)
+
+
+These formulas cover a range of mathematical concepts. Depending on your specific area of study or interest, you may encounter more specialized formulas.
+
+Inverse trigonometric functions find applications in various real-life scenarios. Here are a few examples of how they are used:
+
+1. **Navigation and GPS:**
+   - In navigation systems and GPS, inverse trigonometric functions are used to determine angles and distances. For example, finding the angle of elevation or depression of a satellite can be crucial for accurate positioning.
+
+2. **Physics and Engineering:**
+   - In physics and engineering, inverse trigonometric functions are employed to analyze oscillatory motion, waveforms, and alternating current. They play a crucial role in determining phase shifts, frequencies, and amplitudes.
+
+3. **Architecture and Construction:**
+   - Architects and construction engineers use inverse trigonometry to calculate angles and dimensions. For instance, determining the angle of inclination for a roof or the length of a diagonal beam in a structure.
+
+4. **Surveying and Landscaping:**
+   - Surveyors use inverse trigonometric functions to measure distances and angles in land surveying. Landscape architects may use these functions to plan the layout of gardens, parks, and outdoor spaces.
+
+5. **Physics of Light and Sound:**
+   - In optics and acoustics, inverse trigonometric functions are applied to analyze the behavior of light and sound waves. They help calculate angles of incidence and reflection, as well as the interference patterns of waves.
+
+6. **Satellite Communication:**
+   - In satellite communication systems, inverse trigonometric functions are utilized to determine the optimal angles for satellite dish positioning. This ensures efficient communication between satellites and ground-based stations.
+
+7. **Mechanical Engineering:**
+   - Mechanical engineers use inverse trigonometry to analyze rotational motion, such as determining the angles of rotation or the orientation of objects in machinery.
+
+8. **Computer Graphics and Animation:**
+   - In computer graphics and animation, inverse trigonometric functions are employed to calculate angles for rendering three-dimensional objects. This is essential for realistic animations and simulations.
+
+9. **Medical Imaging:**
+   - In medical imaging, such as computed tomography (CT) scans or magnetic resonance imaging (MRI), inverse trigonometric functions play a role in reconstructing images based on collected data.
+
+10. **Robotics:**
+    - In robotics, inverse trigonometry is used to control the movement of robotic arms and joints. It helps in determining the angles needed to reach specific coordinates.
+
+These examples illustrate the diverse applications of inverse trigonometric functions in different fields, demonstrating their importance in solving real-world problems and making accurate calculations.
