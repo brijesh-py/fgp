@@ -2,19 +2,19 @@ Trigonometry is a branch of mathematics that deals with the relationships betwee
 
 1. **Sine (sinθ):** In a right-angled triangle, the sine of an angle is the ratio of the length of the side opposite the angle to the length of the hypotenuse.
 
-   \[ \sin(\theta) = \frac{{\text{{Opposite side}}}}{{\text{{Hypotenuse}}}} \]
+    - sin(θ)= Opposite side/Hypotenuse
+​
+3. **Cosine (cosθ):** The cosine of an angle is the ratio of the length of the adjacent side to the length of the hypotenuse.
 
-2. **Cosine (cosθ):** The cosine of an angle is the ratio of the length of the adjacent side to the length of the hypotenuse.
+   - cos(θ)= Adjacent side/Hypotenuse
 
-   \[ \cos(\theta) = \frac{{\text{{Adjacent side}}}}{{\text{{Hypotenuse}}}} \]
-
-3. **Tangent (tanθ):** The tangent of an angle is the ratio of the length of the side opposite the angle to the length of the adjacent side.
-
-   \[ \tan(\theta) = \frac{{\text{{Opposite side}}}}{{\text{{Adjacent side}}}} \]
+5. **Tangent (tanθ):** The tangent of an angle is the ratio of the length of the side opposite the angle to the length of the adjacent side.
+   
+   - tan(θ)= Opposite side/Adjacent side
 
 These basic trigonometric functions can be extended to cover all real numbers using the unit circle or through the use of trigonometric identities. Trigonometry is widely used to solve problems involving angles and distances, and it plays a crucial role in various branches of science and engineering. Additionally, trigonometric functions have periodic properties, which make them useful in analyzing repetitive phenomena, such as waves and oscillations.
 
-Developing an interest in mathematics can be a rewarding and enjoyable journey. Here are some steps and tips to help you start learning mathematics and cultivate an interest in the subject:
+Developing an interest in mathematics can be a rewarding and enjoyable journey. Here are some steps and tips to help you start learning mathematics and cultivate an interest in the subject.
 
 ### 1. **Understand the Importance:**
    - Recognize the significance of mathematics in various fields, from science and engineering to economics and everyday problem-solving.
@@ -56,7 +56,7 @@ Developing an interest in mathematics can be a rewarding and enjoyable journey. 
 ### 12. **Challenge Yourself:**
    - Once you feel comfortable with the basics, challenge yourself with more complex problems. Solving challenging problems can be highly rewarding.
 
-Remember, developing an interest in mathematics is a personal journey, and it's perfectly okay to progress at your own pace. Find joy in the process of discovery, and don't hesitate to ask questions. Math is a subject that rewards curiosity and exploration.
+developing an interest in mathematics is a personal journey, and it's perfectly okay to progress at your own pace. Find joy in the process of discovery, and don't hesitate to ask questions. Math is a subject that rewards curiosity and exploration.
 
 Great! If your syllabus includes trigonometry and the relationship between sides and angles of a triangle, you'll likely cover the basics of trigonometry and some important formulas. Here's a concise overview based on your specified topic:
 
@@ -64,29 +64,29 @@ Great! If your syllabus includes trigonometry and the relationship between sides
 
 #### Basic Trigonometric Ratios:
 1. **Sine (sinθ):**
-   \[ \sin(\theta) = \frac{{\text{{Opposite side}}}}{{\text{{Hypotenuse}}}} \]
+    - sin(θ)= Opposite side/Hypotenuse
 
-2. **Cosine (cosθ):**
-   \[ \cos(\theta) = \frac{{\text{{Adjacent side}}}}{{\text{{Hypotenuse}}}} \]
+3. **Cosine (cosθ):**
+   - cos(θ)= Adjacent side/Hypotenuse
 
-3. **Tangent (tanθ):**
-   \[ \tan(\theta) = \frac{{\text{{Opposite side}}}}{{\text{{Adjacent side}}}} \]
+4. **Tangent (tanθ):**
+   - tan(θ)= Opposite side/Adjacent side
 
 #### Sine Rule:
-\[ \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C} \]
+   - (a/sin A) = (b/sin B) = (c/sin C)
 
 #### Cosine Rule:
-\[ a^2 = b^2 + c^2 - 2bc \cos A \]
-\[ b^2 = a^2 + c^2 - 2ac \cos B \]
-\[ c^2 = a^2 + b^2 - 2ab \cos C \]
+   - a^2 = b^2 + c^2 - 2bc cos A 
+   - b^2 = a^2 + c^2 - 2ac cos B 
+   - c^2 = a^2 + b^2 - 2ab cos C
 
 #### Law of Sines:
-\[ \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C} \]
+  - (a/sin A) = (b/sin B) = (c/sin C)
 
 #### Law of Cosines:
-\[ a^2 = b^2 + c^2 - 2bc \cos A \]
-\[ b^2 = a^2 + c^2 - 2ac \cos B \]
-\[ c^2 = a^2 + b^2 - 2ab \cos C \]
+ - a^2 = b^2 + c^2 - 2bc cos A 
+ - b^2 = a^2 + c^2 - 2ac cos B 
+ - c^2 = a^2 + b^2 - 2ab cos C
 
 These formulas are essential for understanding the relationships between the sides and angles of a triangle. They are particularly useful in solving problems related to triangles, especially when you have information about certain sides and angles and need to find others.
 
